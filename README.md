@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://kamilkwk12.github.io/QR-code-component/)
+- Live Site URL: [https://kamilkwk12.github.io/QR-code-component/](https://kamilkwk12.github.io/QR-code-component/)
 
 ## My process
   Firstly I created a container for main element, edited background color of whole site, background color for the container and its shadow. Secondly I added image of QR Code, header text and paragraph to the container. Rest of work was to edit these element properly, so the whole site look nearly identical to the first design.
